@@ -257,7 +257,7 @@ public class todolist {
 		System.out.print("completed tasks: ");
 
 		s.dissplay();
-		l.dissplay();
+		
 
 	}
 
